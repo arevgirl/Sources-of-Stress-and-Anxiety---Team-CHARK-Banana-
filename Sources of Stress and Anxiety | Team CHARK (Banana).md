@@ -1,6 +1,6 @@
 # Defining Stress and Anxiety
 
-### By Abigail Elcock
+_By Abigail Elcock_
 
 In order to analyze the impacts of mental health on UVU students in a post-pandemic, digital classroom world, understanding mental health and its causes is critical. The uncertainty surrounding COVID-19 global shutdowns has increased anxiety. According to the Center for Disease Control and Prevention (CDC), “[Public health actions, such as social distancing, are necessary to reduce the spread of COVID-19, but they can make us feel isolated and lonely and can increase stress and anxiety.](https://www.cdc.gov/mentalhealth/stress-coping/cope-with-stress/index.html)” Therefore, the most relevant mental health experience to understand in present society is anxiety and stress. 
 
@@ -52,7 +52,7 @@ Everyone experiences stress and anxiety, making understanding them vitally impor
 
 # Research Sub-area: Potential Sources of Stress for College Students
 
-### By Hunter Osmun
+_By Hunter Osmun_
 
 The average student experiences many stressors caused by themselves and by their environment. Their life is stressful as it is ever-changing and, because of this, college will by nature be stressful (Brougham et al. 2009).
 
@@ -75,7 +75,7 @@ Students need to expect a good deal of change and stress. While sources of stres
 # Healthy Stress versus Unhealthy Stress
 
 
-### By Kaitlyn Gudmundsen
+_By Kaitlyn Gudmundsen_
 
 ## Introduction
 
@@ -123,7 +123,7 @@ Another way to help reduce stress is to go back to the basics of what makes up g
 
 ***
 
-### By Cheyenne Ingalls
+_By Cheyenne Ingalls_
 
 Mental health has always been really hard to work through. In all the research that was done the biggest thing that was repeated again and again was support. The most massive problem that was seen during the pandemic was that of isolation making people feel abandoned and unsupported. Or if they were supported they felt they did not want to be a burden for anyone else. As a result that made them feel even more alone and unable to cry out for the help they desperately needed. 
 
