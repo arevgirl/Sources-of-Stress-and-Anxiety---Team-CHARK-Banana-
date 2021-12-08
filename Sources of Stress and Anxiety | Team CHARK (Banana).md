@@ -57,7 +57,7 @@ _By Hunter Osmun_
 
 The average student experiences many stressors caused by themselves and by their environment. [Their life is stressful as it is ever-changing and, because of this, college will by nature be stressful](https://doi.org/10.1007/s12144-009-9047-0).
 
-Attempts to categorize this stress have split them into several types of categories. [Bulo](https://www.academia.edu/7498186/SOURCES_OF_STRESS_AMONG_COLLEGE_STUDENTS) chose to split them into intrapersonal, interpersonal, academic, and environmental stressors while [ACO](https://www.affordablecollegesonline.org/balancing-student-stress/) split them based on time, anticipation, situational, and encounter stressors. Depending on the source, stress may or may not be avoidable.
+Attempts to categorize this stress have split them into several types of categories. [Bulo and Sanchez](https://www.academia.edu/7498186/SOURCES_OF_STRESS_AMONG_COLLEGE_STUDENTS) chose to split them into intrapersonal, interpersonal, academic, and environmental stressors while [ACO](https://www.affordablecollegesonline.org/balancing-student-stress/) split them based on time, anticipation, situational, and encounter stressors. Depending on the source, stress may or may not be avoidable.
 
 Internal/intrapersonal stress comes from inside an individual. This includes negative thoughts and unrealistic expectations they have of themselves. External stress is a broad categorization for any stress coming from outside a person’s own mind. This includes interpersonal, environmental, and academic stress. Many stresses are, or include, both internal and external elements, such as feeling peer pressure while experiencing mental illness.
 
