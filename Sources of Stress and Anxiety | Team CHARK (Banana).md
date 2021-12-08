@@ -46,7 +46,7 @@ A variety of resources are available to individuals suffering from stress and an
 
 ## Living With Stress and Anxiety
 
-Everyone experiences stress and anxiety, making understanding them vitally important, especially considering the impacts of COVID-19. Understanding what stress and anxiety are will be critical for our analysis and suggestions throughout the remainder of this document.
+Everyone experiences stress and anxiety, making understanding them vitally important, especially considering the impacts of COVID-19. Understanding what stress and anxiety are will be critical for our analysis and suggestions throughout the remainder of this collaborative document.
 
 ***
 
@@ -83,7 +83,7 @@ _By Kaitlyn Gudmundsen_
 
 Feeling stress is a part of life. People experience stress from so many things. People in college seem to feel stress quite a bit and it can get very overwhelming if not handled correctly. Not all stress is bad, there is good stress that a person can experience but once stress starts to take over your life it can turn bad quickly. For those in college they can experience good stress when they have a deadline coming up for an assignment. This stress helps to motivate them to get the assignment done. Once the deadlines start piling on though with multiple assignments due in multiple classes it can get overwhelming. Throw on trying to maintain a social life and possibly a job and you can soon start to feel like you are drowning in stress. Let's explore healthy stress versus unhealthy stress and see how we can reduce the unhealthy stress in our lives.
 
-## What is the difference?
+## What is the Difference?
 
 This world can be a very stressful place but, stress in small increments can actually be a very good thing to have. A lot of people hear the word stress and they immediately think of it as a bad thing and that is not always the case. There is both healthy and unhealthy stress. According to an article from SummaHealth.org, “[Good stress, or eustress, is the type of stress you feel when you’re excited.](https://www.summahealth.org/flourish/entries/2021/01/stress-management-how-to-tell-the-difference-between-good-and-bad-stress)” This could be a stress you get over an assignment deadline getting closer. This type of stress often leaves you feeling relieved once it passes. Unhealthy stress, or distress, is the type of stress that begins to wear on you, it makes you feel fatigued all the time, you may lose interest in things that used to give you pleasure, and you may even develop physical symptoms. Irritability can also stem from unhealthy stress.
 
