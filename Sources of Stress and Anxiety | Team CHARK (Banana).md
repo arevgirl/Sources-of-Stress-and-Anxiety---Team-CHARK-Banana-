@@ -56,19 +56,47 @@ _By Hunter Osmun_
 
 The average student experiences many stressors caused by themselves and by their environment. [Their life is stressful as it is ever-changing and, because of this, college will by nature be stressful](https://doi.org/10.1007/s12144-009-9047-0).
 
-Attempts to categorize this stress have split them into several types of categories. [Bulo](https://www.academia.edu/7498186/SOURCES_OF_STRESS_AMONG_COLLEGE_STUDENTS) chose to split them into intrapersonal, interpersonal, academic, and environmental stressors while [ACO ](https://www.affordablecollegesonline.org/balancing-student-stress/)split them based on time, anticipation, situational, and encounter stressors. Depending on the source, stress may or may not be avoidable.
+Depending on the source, stress may or may not be avoidable. Attempts to categorize this stress have split them into several types of categories. 
 
-Internal/intrapersonal stress comes from inside an individual. This includes negative thoughts and unrealistic expectations they have of themselves. External stress is a broad categorization for any stress coming from outside a person’s own mind. This includes interpersonal, environmental, and academic stress. Many stresses are, or include, both internal and external elements, such as feeling peer pressure while experiencing mental illness.
+[Bulo](https://www.academia.edu/7498186/SOURCES_OF_STRESS_AMONG_COLLEGE_STUDENTS) categorization of stressors entails:
+
+* Intrapersonal
+* Interpersonal
+* Academic
+* Environmental
+
+While [ACO](https://www.affordablecollegesonline.org/balancing-student-stress/) split stressors based on:
+
+* Time 
+* Anticipation 
+* Situational  
+* Encounter
+
+Internal/intrapersonal stress comes from inside an individual. This includes negative thoughts and unrealistic expectations they have of themselves. External stress is a broad categorization for any stress coming from outside a person’s own mind. This includes interpersonal, environmental, and academic stress. A prime example of environmental stress today is the effects made by the Covid-19 pandemic. Many stresses are, or include, both internal and external elements, such as feeling peer pressure while experiencing mental illness.
 
 For the average student’s overall stress level, academic stress is an enormous factor. This stress can come from family, parents, children, spouses, and many other sources. Academic self-expectations can be realistic or unrealistic, either way increasing stress. [Paying for one’s education costs enormous amounts in today's economy](https://thehavenatcollege.com/5-causes-of-stress-in-college-students/).
 
-The experiences and stresses that students face are never the same. The differences in cultural norms and expectations can cause confusion and frustration. Being a less “traditional” student often means that a student needs to deal with challenges that aren’t generally considered for their demographic. These can include stress from having children, new dynamics of a fresh marriage, or needing to work to pay for their education. Important to note, many of these stressors are in addition to all of the stress that an average student experiences like getting used to a new dynamic of scheduling. 
+The experiences and stresses that students face are never the same. The differences in cultural norms and expectations can cause confusion and frustration. Being a less “traditional” student often means that a student needs to deal with challenges that aren’t generally considered for their demographic. These can include stress from having children, new dynamics of a fresh marriage, or having a lower income. Important to note, many of these stressors are in addition to all of the stress that an average student experiences like getting used to a new dynamic of scheduling. 
 
-[On average, around 75 percent of students are moderately stressed during the school year and the remaining 25 percent are split somewhat evenly between high stress and low stress](https://doi.org/10.1080/10668920600866579). There are many ways to cope with stress: ways that can be healthy or unhealthy. Healthy coping mechanisms can include therapy, exercise, or talking with friends. Unhealthy coping mechanisms can include alcohol, illegal drugs, and smoking, all of which lead to more stressors, guilt, and shame. Unhealthy coping mechanisms are often addictive and do more harm than good. However one deals with stress, it does need to be dealt with or else stress will continue to build, making it much more difficult to deal with in the future.
+[On average, around 75 percent of students are moderately stressed during the school year and the remaining 25 percent are split somewhat evenly between high stress and low stress](https://doi.org/10.1080/10668920600866579). These levels of stress are taken before the pandemic and the marked increase in stress that must have accompanied it. There are many ways to cope with stress: ways that can be healthy or unhealthy. 
+
+Examples of healthy coping mechanisms: 
+
+* Therapy 
+* Exercise
+* Talking with friends 
+
+Unhealthy coping mechanisms can include:
+
+* Alcohol
+* Illegal drugs
+* Smoking 
+
+Unhealthy coping mechanisms often lead to more stressors, guilt, addiction, and shame. Additionally, it is much more difficult to engage in healthy coping mechanisms with so many options being shut down because of the pandemic. However one deals with stress, it does need to be dealt with or else stress will continue to build, making it much more difficult to deal with in the future.
 
 The changes in life that come when an individual becomes a student, one of the largest of which is understanding how to manage their time. This may be a change for students, as many students have yet to need to motivate themselves or to schedule themselves for school, work, and social events. A student's stress will lower when they learn how to manage their time and keep track of their deadlines. Along with the new need to manage time often comes new expectations from roommates. [Changes in eating and sleeping habits as well as a lack of time for self-care are all prime examples of what leads to a stressful lifestyle](https://learningcenter.unc.edu/tips-and-tools/managing-college-stress/).
 
-Students need to expect a good deal of change and stress. While sources of stress can be varied, they need to learn how they best relax and cope with stress. It is important to learn healthy coping mechanisms before committing to these life changes.
+Students need to expect a good deal of change and stress, especially with the additional change and unique stress brought by the pandemic. While sources of stress can be varied, students need to learn how they best relax and cope with stress. It is important to learn healthy coping mechanisms before committing to these life changes.
 
 ***
 
